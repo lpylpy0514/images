@@ -1,1 +1,1 @@
-![image](gsoc2023-image.jpg)
+![](gsoc2023-image.jpg)
